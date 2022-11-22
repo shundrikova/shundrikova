@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 
 
-- 🌱 I’m currently learning: **PyScript** [<img src="https://pyscript.net/assets/images/pyscript-sticker-black.svg" width="35">](https://pyscript.net)
+- 🌱 I’m currently learning: **PyScript** [<img src="https://pyscript.net/assets/images/pyscript-sticker-black.svg" width="35">](https://pyscript.net) and DevOps technologies
 
 - 📫 How to reach me: **shundrikova@gmail.com**, [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="15">](https://linkedin.com/in/shundrikova)
 
